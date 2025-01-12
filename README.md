@@ -18,4 +18,4 @@ Classe Competicao: Responsável por armazenar os atletas e calcular a média vá
 
 Função calcularMediaValida: Ordena as notas, exclui as notas mais alta e mais baixa, e calcula a média das três notas restantes.
 
-Função exibirResultados: Exibe os resultados no console.# notas-atletas
+Função exibirResultados: Exibe os resultados no console.
